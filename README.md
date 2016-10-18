@@ -9,11 +9,11 @@ conhecimento das ferramentas de assembler e link.
 
 Algumas das ferramentas que iremos utilizar.
 
-- [NASM (http://www.nasm.us/)]
-- [YASM (http://yasm.tortall.net/)]
-- [FASM (https://flatassembler.net/)]
-- [BINUTILS (https://www.gnu.org/software/binutils/)]
-- [GCC (https://gcc.gnu.org/)]
+- [NASM] (http://www.nasm.us/)
+- [YASM] (http://yasm.tortall.net/)
+- [FASM] (https://flatassembler.net/)
+- [BINUTILS] (https://www.gnu.org/software/binutils/)
+- [GCC] (https://gcc.gnu.org/)
 
 ## Estrutura de um programa em Assembly
 
